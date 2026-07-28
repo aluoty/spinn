@@ -12,4 +12,4 @@ Build by:
 ```bash
 make all
 ```
-See (LICENSE)[LICENSE]
+See [LICENSE](LICENSE)
